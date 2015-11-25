@@ -3,7 +3,7 @@ package test;
 public class Test {
 
 	public static void main(String[] args){
-		System.out.println("hoi");
+		System.out.println("Niek is een hoer");
 	}
 	
 }
